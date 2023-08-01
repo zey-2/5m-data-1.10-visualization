@@ -10,7 +10,7 @@ We will be using the `pds` environment for this lesson.
 
 ### Lesson Overview
 
-This lesson covers data storytelling, effective data visualization, matplotlib API primer, statistical graphs using seaborn and interactive charts using plotly express.
+This lesson covers data storytelling, effective data visualization, matplotlib primer, and statistical graphs using seaborn.
 
 ---
 

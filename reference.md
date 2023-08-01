@@ -5,7 +5,7 @@
 - Data Visualization Cheatsheet
   - https://www.datacamp.com/cheat-sheet/data-viz-cheat-sheet
 - Matplotlib Cheatsheet
-  - https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python
+  - https://matplotlib.org/cheatsheets/
 - Seaborn Cheatsheet
   - https://www.datacamp.com/cheat-sheet/python-seaborn-cheat-sheet
 - Plotly Express Cheatsheet
