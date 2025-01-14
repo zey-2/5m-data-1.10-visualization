@@ -15,8 +15,7 @@ Question: How do you create a 2x2 subplot grid in matplotlib and select the firs
 Answer:
 
 ```python
-fig = plt.figure()
-ax1 = fig.add_subplot(2, 2, 1)
+
 ```
 
 ### Question 2
@@ -31,7 +30,7 @@ y = [1, 4, 9, 16]
 Answer:
 
 ```python
-plt.plot(x, y, 'ro--')
+
 ```
 
 ### Question 3
@@ -45,8 +44,7 @@ data = np.random.randn(1000)
 Answer:
 
 ```python
-plt.hist(data, bins=30)
-plt.show()
+
 ```
 
 ### Question 4
@@ -56,8 +54,7 @@ Question: How can you set the x-axis and y-axis labels in a matplotlib plot?
 Answer:
 
 ```python
-plt.xlabel('X Axis Label')
-plt.ylabel('Y Axis Label')
+
 ```
 
 ### Question 5
@@ -72,7 +69,7 @@ tips = sns.load_dataset('tips')
 Answer:
 
 ```python
-sns.barplot(x='day', y='tip', data=tips)
+
 ```
 
 ### Question 6
@@ -82,7 +79,7 @@ Question: How to create a box plot for total_bill categorized by day in the `tip
 Answer:
 
 ```python
-sns.boxplot(x='day', y='total_bill', data=tips)
+
 ```
 
 ## Submission
